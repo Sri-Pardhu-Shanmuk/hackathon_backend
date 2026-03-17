@@ -1,0 +1,1 @@
+web: gunicorn bloodline_bd.wsgi
